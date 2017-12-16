@@ -6,18 +6,11 @@ Tools:
 Make the program:
 1. Initialize program with this format.
 
-/* 	Nama program	: 
-	Nama			: 
-	NPM				: 
-	Tanggal buat	: 
-	Deskripsi		: 
-************************************************************/
+#include <iostream> <br/>
+using namespace std; <br/><br/>
 
-#include <iostream.h>
-using namespace std;
-
-int main(){
-	//code here
+int main(){ <br/>
+	//code here <br/>
 }
 
 2. Make the code and run it.
