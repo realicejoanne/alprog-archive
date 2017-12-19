@@ -1,4 +1,4 @@
-# How to use C++ Algorithm?
+# How to use C++ for Algorithm Programming?
 
 Tools: Text Editor (Suggested: MinGW)
 
@@ -13,3 +13,12 @@ Make the program:
 	}
 
 2. Make the code and run it.
+
+In Algorithm Programming, there are several subtopics I learned:
+1. Introduction,
+2. Decision Making (If-else, Switch),
+3. Looping (For, While, Do...While),
+4. Function,
+5. Array,
+6. Record, and
+7. File
