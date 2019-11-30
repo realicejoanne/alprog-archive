@@ -1,17 +1,17 @@
 # How to use C++ for Algorithm Programming?
 
-Tools: Text Editor (Suggested: MinGW)
+Tools: Text Editor (Suggested: MinGW/CodeBlocks)
 
 Make the program:
 1. Initialize program with this format.
+```
+#include <iostream>
+using namespace std;
 
-	#include <iostream> <br/>
-	using namespace std; <br/>
-
-	int main(){ <br/>
-		//code here <br/>
-	}
-
+int main(){
+   //code here
+}
+```
 2. Make the code and run it.
 
 In Algorithm Programming, there are several subtopics I learned:
